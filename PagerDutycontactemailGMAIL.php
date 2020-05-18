@@ -1,5 +1,5 @@
 <?php
-$emailAddress = "gomezezequielmaximiliano@gmail.com"
+$emailAddress = "gomezezequielmaximiliano@gmail.com";
 
 $messages = json_decode($HTTP_RAW_POST_DATA); // alternately, try file_get_contents('php://input');
 
